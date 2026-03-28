@@ -1,0 +1,9 @@
+
+fastapi
+Set-Content -Path "C:\Users\mabat\incontro\requirements.txt" -Value @'
+fastapi
+uvicorn
+pyjwt
+pydantic[email]
+psycopg2-binary
+python-dotenv
